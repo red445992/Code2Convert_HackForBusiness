@@ -1,0 +1,162 @@
+[
+  {
+    "name": "SajiloPay",
+    "location": "Kathmandu",
+    "category": "Fintech",
+    "size": "50–100 employees",
+    "description": "Simplifying digital payments for SMEs across Nepal.",
+    "contact": "Anish Shrestha"
+  },
+  {
+    "name": "GreenTech Nepal",
+    "location": "Pokhara",
+    "category": "Environmental Tech",
+    "size": "20–50 employees",
+    "description": "Developing IoT-based smart waste management solutions.",
+    "contact": "Rita Karki"
+  },
+  {
+    "name": "EduSmart Solutions",
+    "location": "Lalitpur",
+    "category": "EdTech",
+    "size": "10–20 employees",
+    "description": "Building LMS tools for Nepali schools and colleges.",
+    "contact": "Bipin Basnet"
+  },
+  {
+    "name": "Aarambha AI",
+    "location": "Kathmandu",
+    "category": "AI & Data",
+    "size": "30–60 employees",
+    "description": "Providing custom NLP and ML solutions for local businesses.",
+    "contact": "Shreya Poudel"
+  },
+  {
+    "name": "YetiTech",
+    "location": "Biratnagar",
+    "category": "Software Development",
+    "size": "100–150 employees",
+    "description": "Developing enterprise software for banks and cooperatives.",
+    "contact": "Rabindra Thapa"
+  },
+  {
+    "name": "HealthSync",
+    "location": "Chitwan",
+    "category": "HealthTech",
+    "size": "20–40 employees",
+    "description": "Digitizing hospital management systems across Nepal.",
+    "contact": "Dr. Nabin Adhikari"
+  },
+  {
+    "name": "RideOn",
+    "location": "Kathmandu",
+    "category": "Mobility",
+    "size": "80–120 employees",
+    "description": "Nepal's fast-growing ride-hailing platform.",
+    "contact": "Prakash Tiwari"
+  },
+  {
+    "name": "AgriBoost",
+    "location": "Butwal",
+    "category": "AgriTech",
+    "size": "15–30 employees",
+    "description": "Empowering farmers with AI-powered crop advisory.",
+    "contact": "Manju Adhikari"
+  },
+  {
+    "name": "Tourly",
+    "location": "Pokhara",
+    "category": "Travel & Tourism",
+    "size": "25–60 employees",
+    "description": "AI-driven itinerary planner for Nepali tourism.",
+    "contact": "Sandip Gurung"
+  },
+  {
+    "name": "SkillUp Nepal",
+    "location": "Lalitpur",
+    "category": "EdTech",
+    "size": "10–30 employees",
+    "description": "Offering online skill-based training for youth.",
+    "contact": "Ashmita Khadka"
+  },
+  {
+    "name": "SafeNet Security",
+    "location": "Kathmandu",
+    "category": "Cybersecurity",
+    "size": "50–100 employees",
+    "description": "Helping banks and IT firms secure their infrastructure.",
+    "contact": "Deepak Rana"
+  },
+  {
+    "name": "CloudBridge",
+    "location": "Bhaktapur",
+    "category": "Cloud Solutions",
+    "size": "60–100 employees",
+    "description": "Enabling cloud migration for government agencies.",
+    "contact": "Sushil Joshi"
+  },
+  {
+    "name": "QuickBuy",
+    "location": "Dharan",
+    "category": "E-commerce",
+    "size": "40–70 employees",
+    "description": "Online marketplace for electronics and gadgets.",
+    "contact": "Kabita Subedi"
+  },
+  {
+    "name": "FoodMandu Tech",
+    "location": "Kathmandu",
+    "category": "Logistics",
+    "size": "100–200 employees",
+    "description": "Smart delivery and inventory for food businesses.",
+    "contact": "Shyam Aryal"
+  },
+  {
+    "name": "DocDesk",
+    "location": "Janakpur",
+    "category": "HealthTech",
+    "size": "30–60 employees",
+    "description": "Online doctor booking and video consultations.",
+    "contact": "Dr. Aakriti Mishra"
+  },
+  {
+    "name": "HireQuick",
+    "location": "Kathmandu",
+    "category": "HRTech",
+    "size": "20–50 employees",
+    "description": "Streamlining recruitment for startups.",
+    "contact": "Roshan Dahal"
+  },
+  {
+    "name": "BizConnect",
+    "location": "Pokhara",
+    "category": "Networking",
+    "size": "10–25 employees",
+    "description": "Helping founders and investors connect.",
+    "contact": "Rekha Gurung"
+  },
+  {
+    "name": "BlockBank",
+    "location": "Lalitpur",
+    "category": "Blockchain",
+    "size": "25–50 employees",
+    "description": "Building blockchain-based digital wallets.",
+    "contact": "Sagar Bhattarai"
+  },
+  {
+    "name": "Translify",
+    "location": "Kathmandu",
+    "category": "Translation AI",
+    "size": "15–35 employees",
+    "description": "Multilingual translation platform for South Asia.",
+    "contact": "Anjana Lama"
+  },
+  {
+    "name": "DashainDeals",
+    "location": "Hetauda",
+    "category": "RetailTech",
+    "size": "50–80 employees",
+    "description": "Discount aggregator for Nepali festive seasons.",
+    "contact": "Rajeev Pandit"
+  }
+]
