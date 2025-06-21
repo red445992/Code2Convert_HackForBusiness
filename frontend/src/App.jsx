@@ -1,14 +1,17 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
-import TopSection from './pages/front'; // ✅ file exists, name is correct
+import TopSection from './pages/front';
+import LoginForm from './pages/LoginForm';
+import SignupForm from './pages/SignupForm';
 
 function App() {
   return (
     <Router>
       <Routes>
         <Route path="/" element={<TopSection />} />
-        {/* other routes can go here */}
+        <Route path="/login" element={<LoginForm />} />
+        <Route path= "/signup" element={<SignupForm/>} />
       </Routes>
     </Router>
   );
