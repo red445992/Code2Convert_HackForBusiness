@@ -2,7 +2,7 @@
 backend/myenvi/
 backend/.env
 __pycache__/
-
+backend/db.sqlite3
 # Node
 frontend/node_modules/
 frontend/.env
