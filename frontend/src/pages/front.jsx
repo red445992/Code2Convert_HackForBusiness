@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import './front.css'; 
 import LoginForm from './LoginForm';
 import SignupForm from './SignupForm';
+import About from './about';
 import { Link } from "react-router-dom";
 
 
@@ -115,7 +116,7 @@ const PitchPilot = () => {
         <div className="front28">
   <Link to="/" className="front29">Home</Link>
   <Link to="/dashboard" className="front29">Dashboard</Link>
-  <Link to="/about us" className="front29">About Us</Link>
+  <Link to="/about" className="front29">About Us</Link>
   <Link to="/login" className="front29">Login</Link>
   <Link to="/signup" className="front29">Signup</Link>
   
