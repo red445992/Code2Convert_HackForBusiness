@@ -17,7 +17,7 @@ const TopSection = () => {
         <div className="navbar-center">
           <a href="#" className="nav-link">Home</a>
           <a href="#" className="nav-link">Dashboard</a>
-          <a href="#" className="nav-link">Login</a>
+          <a href="#" className="nav-link">Login here</a>
         </div>
 
         <div className="step-indicator">
